@@ -1,0 +1,18 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# 运行 / 调试产物
+*.log
+output/
+*.tmp
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# 说明：打包与审计的产物（EPUB 文件、审计报告）属于运行结果，建议放在临时或输出目录，不要提交。
+# 如需提交样例 epub 用于演示，可直接加入（当前无 *.epub 忽略规则）。
